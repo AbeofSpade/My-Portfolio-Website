@@ -1,2 +1,2 @@
-# My-Potfolio-Website
+# My-Portfolio-Website
 My portfolio website
