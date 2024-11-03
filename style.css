@@ -1,5 +1,6 @@
 body{
     margin: 0px;
+    background-color: rgba(227, 227, 227, 0.863);
 }
 
 main{
@@ -9,9 +10,13 @@ main{
 
 h1{
     color: rgb(134, 122, 56);
+    font-size: 30px;
     text-align: left;
 }
-
+h1 img{
+    height: 50px;
+    float: right;
+}
 .navbar ul{
     list-style-type: none; 
     background-color: hsl(208, 69%, 25%);
@@ -34,6 +39,15 @@ h1{
 }
 
 .navbar li{
-    flex: reverse;
     float: right;
+    
 }
+
+h2{
+    color: rgb(134, 122, 56);
+    font-size: 25px;
+    text-align: left;
+    list-style-type: none;
+    
+}
+
