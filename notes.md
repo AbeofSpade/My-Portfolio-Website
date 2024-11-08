@@ -2,8 +2,8 @@ Structure Prototype:
 
 - Header - .Abe{} with a navigation bar and add animation
 - Body - will have a portrait image
-- Paragraph - will contain images of the programming languages
-- Footer - will have social media links
+- Paragraph - will contain images of the programming languages with a spin animation
+- Footer - will have social media links(girhub & linkedin)
 
 HTML/CSS:
 
